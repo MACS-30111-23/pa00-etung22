@@ -8,9 +8,7 @@
 5. Emma has a dog that is now being taken care of by mom and dad
 6. Emma wishes to join the sailing team# This file is intentionally empty
 #
-# add your code for printing out a message, such as 'Hello World!' or something else!
-
 ![Hong Kong](https://www.istockphoto.com/photos/hong-kong))
 
 ### Emma's favorite website
-[Pizza Capri Menu where she works]([URL](https://www.pizzacapri.com/))
+[Pizza Capri Menu]([URL](https://www.pizzacapri.com/))
