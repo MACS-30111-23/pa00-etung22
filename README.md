@@ -11,6 +11,21 @@ Edit this README file to include a brief biography of yourself. Your README shou
 * Links
 * A summary and reflection of the Git/GitHub workflow you adopted for this homework, and of your experience with Markdown (e.g., provide a summary of the workflow you adopted, and add some comments about something new you learned, something that surprised you, etc.)
 
+#All about Emma Tung
+*Emma Tung is from Bay Area, California, and she enjoys playing tennis, running, cooking, and eating KBBQ*
+##some fun facts about Emma
+1. Emma has tried all of Ben and Jerry's ice cream flavors (best is half baked)
+2. Her brother is in the year below at UChicago
+3. Emma is originally from Hong Kong, but enjoys the Bay Area
+4. Emma loves Boston too as she went to high school on the East Coast
+5. Emma has a dog that is now being taken care of by mom and dad
+6. Emma wishes to join the sailing team
+
+![Alt text](IMG_0493.jpg)
+
+### Emma's favorite website
+[Pizza Capri Menu where she works]([URL](https://www.pizzacapri.com/))
+
 
 
 
